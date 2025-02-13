@@ -1,4 +1,4 @@
-﻿# MachineLearing_basic
+﻿# MachineLearning_basic
 This is a 3-part project regarding the construction of neural networks.
 These neural networks have been constructed from scratch without using secondary machine learning libraries (pytorch, tensorflow) for better understanding of the learning algorithms that are being employed.
 
