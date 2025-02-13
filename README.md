@@ -4,7 +4,7 @@ These neural networks have been constructed from scratch without using secondary
 
 First part of the project is about solving classification problems.
 Second part of the project is about constructing generative models.
-Third part of the project is about the computation of conditional expectations based on a research paper by professor 
+Third part of the project is about the computation of conditional expectations based on a research paper by professor Georgios Moustakides.
 
 If you are not familiar with Greek, skip through the reports and try running the code yourself.
 Note that part 3 is incomplete.
